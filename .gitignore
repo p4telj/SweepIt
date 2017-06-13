@@ -1,7 +1,2 @@
-venv/
-dist/
-build/
-*.egg-info/
-*.pyc
-*.py.backup
+.DS_Store
 
